@@ -1,24 +1,77 @@
-Emergency Help – AI-Powered Emergency Response & Dispatch Assistance System
+# Emergency Help 🚨
 
-Emergency Help is an AI-driven emergency response application designed to optimize and accelerate the communication workflow between 911 callers, dispatch operators, and law enforcement agencies. The system minimizes the manual effort required during emergency intake by automatically converting live emergency conversations into structured, actionable information in real time.
+Emergency Help is an AI-powered emergency response assistance system designed to reduce the response time between a 911 emergency call and law enforcement dispatch. The project automates the process of extracting critical information from emergency conversations, helping dispatch operators quickly understand situations and route incidents to the appropriate emergency services.
 
-The application leverages speech-to-text processing and Large Language Model (LLM) capabilities to analyze emergency calls and extract critical details such as the caller’s name, location, contact information, emergency type, severity level, and offender description. This enables dispatch teams to quickly assess situations and route incidents to the appropriate police or emergency response units with reduced response latency.
+## Overview
 
-The backend was developed using .NET 8 Web API, following a service-oriented architecture to ensure scalability and maintainability. The system integrates with the OpenAI API (ChatGPT & Whisper models) to perform audio transcription and intelligent entity extraction from emergency conversations. The extracted data is then transformed into a structured format suitable for dispatch operations and emergency reporting.
+In traditional emergency response systems, operators manually listen to callers, collect details, type information, and forward the incident to police or rescue teams. This manual process can introduce delays during critical situations.
 
-Key Features
-Real-time emergency call transcription using AI-powered speech recognition
-Automated extraction of critical emergency information
-Severity classification based on conversation context
-Structured response generation for dispatch operators
-RESTful API architecture built with .NET
-Integration with OpenAI GPT and Whisper APIs
-Improved dispatch efficiency and reduced manual processing time
-Technologies Used
-Backend: .NET 8, ASP.NET Core Web API, C#
-AI/LLM Integration: OpenAI GPT API, Whisper API
-Architecture: REST APIs, Service-Oriented Design
-Other: HTTP Client Integration, JSON Processing, Entity Extraction Logic
-Impact
+Emergency Help improves this workflow by automatically:
+- Converting emergency conversations into text
+- Extracting important information using AI
+- Structuring emergency details for faster dispatch
 
-The project demonstrates how AI and NLP technologies can modernize emergency response systems by reducing operator workload, improving information accuracy, and enabling faster decision-making during critical situations where response time is essential.
+The system helps reduce manual effort and improves emergency response efficiency.
+
+## Features
+
+- 🎤 Real-time speech-to-text transcription
+- 🤖 AI-powered emergency information extraction
+- 📍 Automatic location detection from conversations
+- 🚓 Dispatch-ready structured emergency reports
+- ⚠️ Emergency severity classification
+- 📄 JSON-formatted response generation
+- 🔗 OpenAI GPT integration for intelligent processing
+
+## Extracted Information
+
+The application extracts critical details such as:
+- Caller Name
+- Location
+- Emergency Type
+- Reason for Emergency
+- Severity Level
+- Suspect or Offender Details
+- Additional Emergency Notes
+
+## Tech Stack
+
+### Backend
+- .NET 8
+- ASP.NET Core Web API
+- C#
+
+### AI & NLP
+- OpenAI GPT API
+- OpenAI Whisper API
+
+### Architecture
+- RESTful APIs
+- Service-Oriented Architecture
+- JSON Data Processing
+
+## How It Works
+
+1. A user places an emergency call
+2. The conversation audio is converted into text
+3. The transcribed text is sent to the OpenAI API
+4. AI extracts emergency-related information
+5. The system generates a structured emergency response
+6. Dispatch operators can quickly forward the case to the appropriate police or rescue team
+
+## Project Goal
+
+The primary goal of this project is to minimize emergency response delays by reducing the time required for manual data entry and emergency classification. By leveraging AI and Natural Language Processing (NLP), the system enables faster and more accurate emergency dispatch operations.
+
+## Future Improvements
+
+- Real-time live call streaming
+- Multi-language emergency support
+- AI-based emergency prioritization
+- Integration with police dispatch systems
+- GIS/Map integration for live tracking
+- SMS and notification support
+
+## Author
+
+Kishore Uputoori

@@ -1,0 +1,150 @@
+[
+  {
+    "ContainingType": "EmergencyHelp.Controllers.EmergencyRestController",
+    "Method": "GetAllEmergencies",
+    "RelativePath": "api/EmergencyRest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.EmergencyRestController",
+    "Method": "AddEmergency",
+    "RelativePath": "api/EmergencyRest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emergency",
+        "Type": "EmergencyHelp.Models.Entities.AddEmergencyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.EmergencyRestController",
+    "Method": "GetEmergencyById",
+    "RelativePath": "api/EmergencyRest/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.EmergencyRestController",
+    "Method": "UpdateEmergency",
+    "RelativePath": "api/EmergencyRest/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateEmergency",
+        "Type": "EmergencyHelp.Models.Entities.UpdateEmergencyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.EmergencyRestController",
+    "Method": "DeleteEmergency",
+    "RelativePath": "api/EmergencyRest/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.EmergencyRestController",
+    "Method": "AudioToText",
+    "RelativePath": "api/EmergencyRest/audio-to-text",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "audio",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.OpenAIController",
+    "Method": "AudioToText",
+    "RelativePath": "api/OpenAI/audio-to-text",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "audio",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.OpenAIController",
+    "Method": "CompleteSentence",
+    "RelativePath": "api/OpenAI/CompleteSentence",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmergencyHelp.Configuration.CompleteSentenceRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmergencyHelp.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[EmergencyHelp.WeatherForecast, EmergencyHelp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

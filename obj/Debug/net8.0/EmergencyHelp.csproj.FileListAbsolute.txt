@@ -1,0 +1,303 @@
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\appsettings.Development.json
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\appsettings.json
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.staticwebassets.endpoints.json
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.exe
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.deps.json
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.runtimeconfig.json
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.pdb
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.csproj.AssemblyReference.cache
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.AssemblyInfoInputs.cache
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.AssemblyInfo.cs
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.csproj.CoreCompileInputs.cache
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.MvcApplicationPartsAssemblyInfo.cs
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.MvcApplicationPartsAssemblyInfo.cache
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\scopedcss\bundle\EmergencyHelp.styles.css
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.build.json
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.development.json
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyHelp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyHelp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.build.EmergencyHelp.props
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmergencyHelp.props
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmergencyHelp.props
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.pack.json
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\Emergenc.09CF8A42.Up2Date
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.dll
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\refint\EmergencyHelp.dll
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.pdb
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.genruntimeconfig.cache
+E:\.Net Projects\EmergencyHelp\obj\Debug\net8.0\ref\EmergencyHelp.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Azure.Core.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Azure.Identity.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Humanizer.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.CodeDom.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Memory.Data.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\MySqlConnector.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Asio.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Core.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Midi.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Wasapi.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.WinMM.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\System.Speech.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\.Net Projects\EmergencyHelp\bin\Debug\net8.0\OpenAI_API.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\appsettings.json
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\global.json
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.exe
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.deps.json
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.runtimeconfig.json
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\EmergencyHelp.pdb
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\MySqlConnector.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Asio.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Core.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Midi.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.Wasapi.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\NAudio.WinMM.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\OpenAI_API.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Speech.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+D:\Projects\EmergencyHelp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.csproj.AssemblyReference.cache
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.AssemblyInfoInputs.cache
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.AssemblyInfo.cs
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.csproj.CoreCompileInputs.cache
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.EmergencyHelp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.build.EmergencyHelp.props
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmergencyHelp.props
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmergencyHelp.props
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\scopedcss\bundle\EmergencyHelp.styles.css
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\Emergenc.09CF8A42.Up2Date
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.dll
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\refint\EmergencyHelp.dll
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.pdb
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\EmergencyHelp.genruntimeconfig.cache
+D:\Projects\EmergencyHelp\obj\Debug\net8.0\ref\EmergencyHelp.dll
